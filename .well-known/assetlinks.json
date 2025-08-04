@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.naama.deeplink",
+    "sha256_cert_fingerprints": [
+      "9F:6A:20:7A:C1:8A:C5:17:1B:00:91:90:E6:0C:61:E4:78:D6:2F:87:41:E6:D4:86:47:BA:B0:AA:AC:99:68:5F"
+    ]
+  }
+}]
